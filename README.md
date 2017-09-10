@@ -15,7 +15,7 @@
 
 # Inspiration
 
-My first task in the project was to choose the base colours for my design and these were black, blue and grey. I used the [Color Palettes](http://colorpalettes.net "Color Palettes") website to help me choose a combination of colours.
+My first task in the project was to choose the base colours for my design and these were black, blue and grey. I used [Color Palettes](http://colorpalettes.net "Color Palettes") website to help me choose a combination of colours.
 
 ![](img/color_palette.png)
 
@@ -27,9 +27,9 @@ The combination of black, blue and grey are basically the clothing colours that 
 
 These are a collecton of simplistic looking websites that inspired me:
 
-[Jun Lu](http://http://junlu.co/ "Jun Lu")
+[Jun Lu](http://junlu.co/ "Jun Lu")
 
-[Symbolset](http://http://junlu.co/ "Symbolset")
+[Symbolset](https://symbolset.com/ "Symbolset")
 
 [Hihayk](http://www.hihayk.com/"Hayk")
 
