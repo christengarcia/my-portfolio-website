@@ -15,13 +15,11 @@
 
 # Inspiration
 
-My first task in the project was to choose the base colours for my design and these were black, blue and grey. 
+My first task in the project was to choose the base colours for my design and these were black, blue and grey. I used the [Color Palettes](http://colorpalettes.net "Color Palettes") website to help me choose a combination of colours.
 
 ![](img/color_palette.png)
 
-[Color Palettes](http://colorpalettes.net/color-palette-1851/ "Color Palettes")
-
-I collected a lot of pictures in [Pintrest](https://au.pinterest.com/christen_garcia/portfolio-project/) and saved many website links that inspired me. The most that resonated with me was [Adobe's](http://www.adobe.com/au/creativecloud/buy/students.html?promoid=65FN7X8B&mv=other "Adobe's Homepage") website in Australia:
+I collected a lot of pictures in [Pintrest](https://au.pinterest.com/christen_garcia/portfolio-project/) and saved many website links that inspired me. The most that resonated with me was [Adobe's](http://www.adobe.com/au/creativecloud/buy/students.html?promoid=65FN7X8B&mv=other "Adobe's Homepage") website.
 
 ![](img/adobe_website.png)
 
