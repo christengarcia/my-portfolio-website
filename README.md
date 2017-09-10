@@ -21,11 +21,9 @@ My first task in the project was to choose the base colours for my design and th
 
 [Color Palettes](http://colorpalettes.net/color-palette-1851/ "Color Palettes")
 
-I collected a lot of pictures in [Pintrest](https://au.pinterest.com/christen_garcia/portfolio-project/) and saved many website links that inspired me. The most that resonated with me was Adobe's website in Australia:
+I collected a lot of pictures in [Pintrest](https://au.pinterest.com/christen_garcia/portfolio-project/) and saved many website links that inspired me. The most that resonated with me was [Adobe's](http://www.adobe.com/au/creativecloud/buy/students.html?promoid=65FN7X8B&mv=other "Adobe's Homepage") website in Australia:
 
 ![](img/adobe_website.png)
-
-[Adobe](http://www.adobe.com/au/creativecloud/buy/students.html?promoid=65FN7X8B&mv=other "Adobe's Homepage")
 
 The combination of black, blue and grey are basically the clothing colours that I wear on a daily basis. I thought the colour red was a nice contrast from the dark backgrounds so I decided to make my logo red.
 
