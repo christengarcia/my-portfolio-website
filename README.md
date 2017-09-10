@@ -33,7 +33,7 @@ These are a collecton of simplistic looking websites that inspired me:
 
 [Jun Lu](http://http://junlu.co/ "Jun Lu")
 
-[Symbolset]([Jun Lu](http://http://junlu.co/ "Symbolset")
+[Symbolset](http://http://junlu.co/ "Symbolset")
 
 [Hihayk](http://www.hihayk.com/"Hayk")
 
@@ -75,7 +75,7 @@ Google search was my best friend throughout the entire project. My experience wi
 
 I’m really happy with my website. The design is exactly how I wanted it to be. I have suceeded in making the end product the same as the mockup designs.
 
-![](images/iPhone5.jpg)
+![](images/iPhone5.png)
 
 [Christen Garcia Website](https://christengarcia.com)
 
