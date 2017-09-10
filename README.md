@@ -23,7 +23,7 @@ I collected a lot of pictures in [Pintrest](https://au.pinterest.com/christen_ga
 
 ![](img/adobe_website.png)
 
-The combination of black, blue and grey are basically the clothing colours that I wear on a daily basis. I thought the colour red was a nice contrast from the dark backgrounds so I decided to make my logo red.
+The combination of black, blue and grey are basically the clothing colours that I wear on a daily basis. I thought the font colour red was a nice contrast from the dark backgrounds so I decided to make my logo red.
 
 These are a collecton of simplistic looking websites that inspired me:
 
@@ -31,7 +31,7 @@ These are a collecton of simplistic looking websites that inspired me:
 
 [Symbolset](https://symbolset.com/ "Symbolset")
 
-[Hihayk](http://www.hihayk.com/"Hayk")
+[Hihayk](http://www.hihayk.com/ "Hayk")
 
 [Simone Marcarino](http://simonemarcarino.com/ "Simone Marcarino")
 
