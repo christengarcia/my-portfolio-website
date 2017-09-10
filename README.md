@@ -45,6 +45,8 @@ I decided to create a mobile, iPad and desktop design mockup in Figma. My site w
 
 I first created a mobile version in Figma and then extended that to iPad and desktop versions. I wanted a different colour for each page except my first and last page I chose black for symmetry. I also wanted to have a traditional look for my resume so I chose a plain white background with black text.
 
+![](img/figma_1.png)
+
 On my social media page I wanted to have some design contrast to the other plain colour web pages so I decided to have a textured black background with contrasting white icon links. 
 
 The last thing I did was to create my logo on [Tailor Brands](https://www.tailorbrands.com/).
