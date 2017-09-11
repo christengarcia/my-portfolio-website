@@ -15,7 +15,7 @@
 
 # Inspiration
 
-My first task in the project was to choose the base colours for my design and these were black, blue and grey. I used [Color Palettes](http://colorpalettes.net "Color Palettes") website to help me choose a combination of colours.
+My first task in the project was to choose the base colours for my design and these were black, blue and grey. I used [Color Palettes](http://colorpalettes.net/color-palette-1851/ "Color Palettes") website to help me choose a combination of colours.
 
 ![](img/color_palette.png)
 
