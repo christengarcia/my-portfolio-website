@@ -51,11 +51,13 @@ On my social media page I wanted to have some design contrast to the other plain
 
 The last thing I did was to create my logo on [Tailor Brands](https://www.tailorbrands.com/).
 
+Once my Figma designs was finished I started coding. I was coding mostly in codepen and then transferring to Visual Studio.
+
 -------------------------------------------------------------------------------------
 
 # Changes / Improvements
 
-Once my Figma designs was finished I started coding. The only major change to my Figma design was to add an extra white page for my resume since pagePiling fixed page dimensions didn't accomodate for all my resume text to fit onto one page.  
+The only major change to my Figma design was to add an extra white page for my resume since pagePiling fixed page dimensions didn't accomodate for all my resume text to fit onto one page.  
 
 I also decided to make my social media icons glow when you hover over them. Another addition I made from a recommendation from a fellow student was to put a resume download link. I chose a black download icon to keep inline with a traditional black text resume color scheme.
 
