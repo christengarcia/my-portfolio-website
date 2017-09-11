@@ -19,7 +19,7 @@ My first task in the project was to choose the base colours for my design and th
 
 ![](img/color_palette.png)
 
-I collected a lot of pictures in [Pintrest](https://au.pinterest.com/christen_garcia/portfolio-project/) and saved many website links that inspired me. The most that resonated with me was [Adobe's](http://www.adobe.com/au/creativecloud/buy/students.html?promoid=65FN7X8B&mv=other "Adobe's Homepage") website.
+I collected pictures in [Pintrest](https://au.pinterest.com/christen_garcia/portfolio-project/) and saved many website links that inspired me. The most that resonated with me was [Adobe's](http://www.adobe.com/au/creativecloud/buy/students.html?promoid=65FN7X8B&mv=other "Adobe's Homepage") website.
 
 ![](img/adobe_website.png)
 
