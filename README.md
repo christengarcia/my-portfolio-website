@@ -63,7 +63,7 @@ I also decided to make my social media icons glow when you hover over them. Anot
 
 # Challenges
 
-There were challenges right from the beginning since this was to be my first website to ever create. The design process for me was easier than the actual coding. Since my website was going to be simplistic looking, I was relyihg on the combination of colours to help achieve a professional look.  
+There were challenges right from the beginning since this was to be my first website to ever create. The design process for me was easier than the actual coding. Since my website was going to be simplistic looking, I was relying on the combination of colours to help achieve a professional look.  
 
 Google search was my best friend throughout the entire project. My experience with html and css was very limited so about 90% of the time while coding, I was using google to help me. Every step of the way I was learning something new. I’ve never used jQuery before but I had my mind set on using pagePiling effect so I was really motivated to learn and get it to work.
 
